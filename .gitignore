@@ -1,4 +1,6 @@
-.history
-data/*
-dist*/*
+*/*
 .env
+!.gitignore
+!cves
+!cves/*
+!cves/*/*/*
